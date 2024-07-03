@@ -73,7 +73,7 @@ export const navItems = [
     {
       id: 1,
       title: "RL Car Dealer - Management System",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      des: "Designed for effortless appointment bookings, car services, and seamless trade-ins—all integrated for optimal user convenience.",
       img: "/p1.png",
       iconLists: ["/laravel.svg", "/hostinger.svg", "/jquery.svg", "/json.svg", "/php.svg"],
       linkDesc: "Check Live Site",
@@ -82,7 +82,7 @@ export const navItems = [
     {
       id: 2,
       title: "Life Care - Management System",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "'Simplifies your life with easy appointment booking, seamless schedule management, and quick access to vital services.",
       img: "/p2.png",
       iconLists: ["/laravel.svg", "/laragon.svg", "/jquery.svg", "/json.svg", "/php.svg"],
       linkDesc: "Check Project Site",
